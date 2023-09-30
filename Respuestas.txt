@@ -1,0 +1,2 @@
+A simple vista si puede ver que no hay ninguna funcion para evitar las race condition 
+por lo que hay que utilizar una funcio de turnos pawra solucionar esto
